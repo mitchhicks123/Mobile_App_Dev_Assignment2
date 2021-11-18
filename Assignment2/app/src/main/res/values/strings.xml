@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+
+    <!-- String Text Values for App -->
+    <string name="title">Location Finder</string>
+    <string name="addressHint"> Address </string>
+    <string name="latitude"> Latitude </string>
+    <string name="latitudeVal"> - 0.0000 deg </string>
+    <string name="longitude"> Longitude </string>
+    <string name="longitudeVal"> + 0.0000 deg </string>
+
+    <!-- String Button Values for App -->
+    <string name="saveButton"> Save </string>
+    <string name="deleteButton"> Delete </string>
+    <string name="updateButton"> Update </string>
+    <string name="searchButton"> Search </string>
+
+    <!-- dialog string values for update location-->
+    <string name="newAddressHint"> New Address </string>
+
+</resources>
